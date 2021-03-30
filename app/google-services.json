@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "690211806809",
+    "firebase_url": "https://test4-43363.firebaseio.com",
+    "project_id": "test4-43363",
+    "storage_bucket": "test4-43363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690211806809:android:96b98335427dc06b115b48",
+        "android_client_info": {
+          "package_name": "com.example.chatapp4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690211806809-hhl7kp5aatd72jule2f0lkquodl2hidi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7eDCX7H-mCZwQhZgU5nWCV7tByZlFErQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690211806809-hhl7kp5aatd72jule2f0lkquodl2hidi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690211806809:android:9125ea28437ddcf5115b48",
+        "android_client_info": {
+          "package_name": "com.example.test4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690211806809-k4ssm5vbvl8aulvmfvsnjiblsg49pla6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test4",
+            "certificate_hash": "7fa3729cf363b000dbdf5742c58ece5807bb49ab"
+          }
+        },
+        {
+          "client_id": "690211806809-hhl7kp5aatd72jule2f0lkquodl2hidi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7eDCX7H-mCZwQhZgU5nWCV7tByZlFErQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690211806809-hhl7kp5aatd72jule2f0lkquodl2hidi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
